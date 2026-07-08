@@ -81,7 +81,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         name: "description",
         content:
-          "Portfolio of Ankita Haldar — final-year CS (AI/ML) student building AI-driven products and full-stack applications with Python, React and LLMs.",
+          "Portfolio of Ankita Haldar — B.Tech Computer Science (AI/ML) graduate building intelligent AI solutions, scalable full-stack applications, and impactful software experiences.",
       },
       { name: "author", content: "Ankita Haldar" },
       { property: "og:title", content: "Ankita Haldar — CS/AI Engineer" },
