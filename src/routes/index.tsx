@@ -103,7 +103,7 @@ function Hero() {
             <em className="italic">idea</em> at a time.
           </h1>
           <p className="mt-8 max-w-xl text-lg text-muted-foreground leading-relaxed">
-            I'm <span className="text-foreground">Ankita Haldar</span> — a final-year Computer Science (AI/ML) student and full-stack developer. I built an LLM-powered chatbot at Reliance Industries and ship AI products end-to-end, from CNNs to React frontends.
+            I'm <span className="text-foreground">Ankita Haldar</span> — B.Tech Computer Science (AI/ML) graduate, AI/ML engineer, and full-stack developer passionate about building intelligent software and scalable AI solutions. With experience developing LLM-powered applications and machine learning systems, I enjoy transforming innovative ideas into impactful real-world products.
           </p>
           <div className="mt-10 flex flex-wrap items-center gap-4">
             <a
@@ -194,8 +194,7 @@ function About() {
           </p>
           <div className="mt-10 grid md:grid-cols-2 gap-8 text-muted-foreground">
             <p>
-              Final-year B.Tech in Computer Science (AI/ML) at Bharati Vidyapeeth DET, Maharashtra. Comfortable across the stack: from CNN model design to REST APIs and React frontends.
-            </p>
+                B.Tech Computer Science (AI/ML) graduate, AI/ML engineer, and full-stack developer passionate about building intelligent software and scalable AI solutions. With experience developing LLM-powered applications and machine learning systems, I enjoy transforming innovative ideas into impactful real-world products.            </p>
             <p>
               Currently exploring the intersection of <span className="text-foreground">LLMs</span>, <span className="text-foreground">semantic search</span> and <span className="text-foreground">healthcare AI</span> — and seeking entry-level SDE or AI/ML engineering roles for 2026.
             </p>
